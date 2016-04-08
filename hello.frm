@@ -22,7 +22,7 @@ Begin VB.Form Form1
       Height          =   372
       Left            =   840
       TabIndex        =   0
-      Text            =   "Hello Basics"
+      Text            =   "Hello Basics World"
       Top             =   960
       Width           =   3372
    End
